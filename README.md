@@ -1,23 +1,21 @@
 # JavaChallenges
 
-A series of small java programmes following online challenge instructions 
+A series of 9 small java programmes following online challenge instructions. Some may be useful when it comes to interview questions 
 
 Contents: 
 
 Challenges (JavaChallenges main)
-│
-├── JRE System Library [JavaSE-11]
-│
-└── src
-    ├── ReadingWeek
-    │   ├── BinaryFinary.java
-    │   ├── BookCipher.java
-    │   ├── CodeBreaker.java
-    │   ├── FizzBuzz.java
-    │   └── PubQuiz.java
-    │
-    └── WeeklyChallenges
-        ├── ASCIIConverterWeek3.java
-        ├── magic8BallWeek2.java
-        ├── PentakerArrayWeek5.java
-        └── SquareMeUpWeek4.java
+
+ src
+    ReadingWeek
+      BinaryFinary.java
+      BookCipher.java
+      CodeBreaker.java
+      FizzBuzz.java
+      PubQuiz.java
+    
+     WeeklyChallenges
+       ASCIIConverterWeek3.java
+       magic8BallWeek2.java
+       PentakerArrayWeek5.java
+       SquareMeUpWeek4.java
